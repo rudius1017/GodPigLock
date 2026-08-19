@@ -1,0 +1,11 @@
+{
+  "version": "0.1.9",
+  "notes": "新增一键自动更新与按星期执行的定时锁机，支持跨午夜计划；同时保留后台服务守护、应用和网站屏蔽。",
+  "pub_date": "2026-08-19T16:51:35.780Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc09LemkxUndEUFF5c1R2MWpLYm9uUlJZanRDRDdFOFdudHlCVUtTbEg4RkF5ZnRCSnZ3T3ptRFRuR1YzZG43OC8xNEFENUFNUFk5cE9BK2tldHBVSkN3SjcyWFMzU3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTU4Mjc2CWZpbGU656We54yq6ZSBXzAuMS45X3g2NC1zZXR1cC5leGUKTEhqVlllVjRUeXVNSEdMMVBkM1p5MkpBMDVsTmZkQ0U1Wm4zTHZIaSt0aldlL2xBb0tzb1IwU1REbDJYa2FrQ3F3eWc2bUtnVm1hOG1KeVN3Q1dTRGc9PQo=",
+      "url": "https://github.com/rudius1017/GodPigLock/releases/download/v0.1.9/ShenzhuLock_0.1.9_x64-setup-r1.exe"
+    }
+  }
+}
