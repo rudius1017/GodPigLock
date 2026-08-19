@@ -1,7 +1,7 @@
 {
   "version": "0.1.10",
   "notes": "新增“还未搞到”本地待办模块：支持添加、完成或恢复待办、查看已完成列表，并可删除任意状态的待办；数据库升级到 schema v6。",
-  "pub_date": "2026-08-19T17:20:57.396Z",
+  "pub_date": "2026-08-19T17:24:08.449Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc09LemkxUndEUFZFVUd0TTlza1dZcTdPeXFJayt2d1dnWmhIWHh2VmVrZGQ3Ky9ySDNWRkg1NEZ1MUFrQUc0czE0R2xvQ2N1OGgyK2N3akxoenVpUEYwN0ZxNUVrWkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTU5NjAwCWZpbGU656We54yq6ZSBXzAuMS4xMF94NjQtc2V0dXAuZXhlCnAzYXNWbDE2V01QS2lNY3VNbEJ5QU15TGxqSmVNR0tUNUVya29TamNpdTNteTloZWdYSGgxbFYxOVlEWk95TElHVnJkQXNQL2FwNTNLSFlkRzR2QUR3PT0K",
