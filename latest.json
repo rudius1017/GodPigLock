@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "新增“还未搞到”本地待办模块：支持添加、完成或恢复待办、查看已完成列表，并可删除任意状态的待办；数据库升级到 schema v6。",
-  "pub_date": "2026-08-19T17:24:08.449Z",
+  "version": "0.1.11",
+  "notes": "新增“积积爆炸”坚持任务：支持每日签到、补签、最近记录和任务删除；每个任务累计 7 次奖励 1 次补签，最多储存 30 次；数据库升级到 schema v7。",
+  "pub_date": "2026-08-19T18:04:55.726Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc09LemkxUndEUFZFVUd0TTlza1dZcTdPeXFJayt2d1dnWmhIWHh2VmVrZGQ3Ky9ySDNWRkg1NEZ1MUFrQUc0czE0R2xvQ2N1OGgyK2N3akxoenVpUEYwN0ZxNUVrWkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTU5NjAwCWZpbGU656We54yq6ZSBXzAuMS4xMF94NjQtc2V0dXAuZXhlCnAzYXNWbDE2V01QS2lNY3VNbEJ5QU15TGxqSmVNR0tUNUVya29TamNpdTNteTloZWdYSGgxbFYxOVlEWk95TElHVnJkQXNQL2FwNTNLSFlkRzR2QUR3PT0K",
-      "url": "https://raw.githubusercontent.com/rudius1017/GodPigLock/main/downloads/0.1.10/ShenzhuLock_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc09LemkxUndEUFNXWFd5VjZpQzZRdnlveW5kVnljTVhqcjh4REcvUkcxa0U3YWVrUkNRZ3cxejZ1bVAySGxDL010blFFZjVmUkZKZlRiRWZ1WHhEM1VPNmRNN0tNQXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTYyNjY2CWZpbGU656We54yq6ZSBXzAuMS4xMV94NjQtc2V0dXAuZXhlCjRLUlJibDJBTWJDNGRZZjVXWk9sdERTbGFPYThtYmh6WjRkVFk5YzNtQTFmSTdONVJrd1BUV1o4RGJ6cFQrd2d3QnU5czJoZG41TjFKYXc1MzJCb0JnPT0K",
+      "url": "https://raw.githubusercontent.com/rudius1017/GodPigLock/main/downloads/0.1.11/ShenzhuLock_0.1.11_x64-setup.exe"
     }
   }
 }
