@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "新增“积积爆炸”坚持任务：支持每日签到、补签、最近记录和任务删除；每个任务累计 7 次奖励 1 次补签，最多储存 30 次；数据库升级到 schema v7。",
-  "pub_date": "2026-08-19T18:04:55.726Z",
+  "version": "0.1.12",
+  "notes": "修正 Windows 守护服务安装路径；安装后自动部署并启动守护；保存启用的定时计划时自动检测并修复服务；设置页新增守护状态和手动修复。",
+  "pub_date": "2026-08-21T08:19:12.595Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc09LemkxUndEUFNXWFd5VjZpQzZRdnlveW5kVnljTVhqcjh4REcvUkcxa0U3YWVrUkNRZ3cxejZ1bVAySGxDL010blFFZjVmUkZKZlRiRWZ1WHhEM1VPNmRNN0tNQXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTYyNjY2CWZpbGU656We54yq6ZSBXzAuMS4xMV94NjQtc2V0dXAuZXhlCjRLUlJibDJBTWJDNGRZZjVXWk9sdERTbGFPYThtYmh6WjRkVFk5YzNtQTFmSTdONVJrd1BUV1o4RGJ6cFQrd2d3QnU5czJoZG41TjFKYXc1MzJCb0JnPT0K",
-      "url": "https://raw.githubusercontent.com/rudius1017/GodPigLock/main/downloads/0.1.11/ShenzhuLock_0.1.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc09LemkxUndEUFVkeVJPNmhmK2pUNzJFeUY1WGpmVFBxRGNhY05aditiOGwzYkR6MTJ1WERkenJ5YWZDUWE1WG5nSFFlL0ZMR1NYRkpyanR1M0R3MjluZVcrWm5oMUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzAwMzA4CWZpbGU656We54yq6ZSBXzAuMS4xMl94NjQtc2V0dXAuZXhlCmJ3ZWl0VEZNQi9JYlI3QTRidWdtRi9yUk5vMkJWZVZPQklaRGFyc3BHem9yKzVRRzRDQUFtRklxTGpydWM0cjVTRHZWWlp4L0xXYVF2dWVQbGlqTENBPT0K",
+      "url": "https://raw.githubusercontent.com/rudius1017/GodPigLock/main/downloads/0.1.12/ShenzhuLock_0.1.12_x64-setup.exe"
     }
   }
 }
